@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo dpkg -i /lib/mysql-common_5.5.13-2_all.deb
+sudo dpkg -i /lib/libmysqlclient18_5.5.13-2_amd64.deb
+sudo dpkg -i /lib/libmysqlclient-dev_5.5.13-2_amd64.deb
